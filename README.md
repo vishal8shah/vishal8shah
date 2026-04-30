@@ -2,9 +2,9 @@
 
 **Agentic AI · Enterprise Architecture · Observability · ServiceNow**
 
-I build **agentic AI systems with production-grade guardrails** — multi-agent review pipelines, security-hardened personal agents, and observability stacks that treat safety and traceability as non-negotiable.
+I build **agentic AI systems with production-grade guardrails**: multi-agent review pipelines, security-hardened personal agents, and observability stacks that treat safety and traceability as non-negotiable.
 
-My enterprise background in regulated financial services (SOX, APRA, IAM, change governance) shapes how I think about deploying AI responsibly at scale — translating complex technical architectures into clear business value for executives, engineers, and everyone in between.
+My enterprise background in regulated financial services (SOX, APRA, IAM, change governance) shapes how I think about deploying AI responsibly at scale, translating complex technical architectures into clear business value for executives, engineers, and everyone in between.
 
 Based in Sydney, Australia. 19 years in enterprise technology. Currently exploring the intersection of agentic AI, evaluation frameworks, and safe enterprise deployment.
 
@@ -24,7 +24,7 @@ Multi-agent AI code review panel with SecOps, QA, Architect, and Docs reviewer p
 
 Security-hardened, self-hosted AI agent on WSL2 with 10-layer defence-in-depth, container sandboxing, loopback-only gateway design, token authentication, cost monitoring, and a 5-layer observability stack (Prometheus, Grafana, Loki, Tempo, alerting).
 
-> Assumes you're running long-lived agents with real tools, real credentials, and real blast radius — and treats security and observability as non-negotiable.
+> Assumes you're running long-lived agents with real tools, real credentials, and real blast radius, treating security and observability as non-negotiable.
 
 ### 📊 [AU Job Market Visualiser](https://github.com/vishal8shah/au-jobs)
 
@@ -38,19 +38,19 @@ Multi-market portfolio dashboard (ASX, US, IN) with AI-driven regime analysis. B
 
 ## Other Projects
 
-- **ING Hackathon 2026 — AI for Reliability** · Global Top 5, only Australian finalists · Architected autonomous observability agents using kagent, Grafana MCP Server, and Google A2A protocol on AKS/GKE. Integrated Claude and Gemini for natural-language observability, Kubernetes actions, and closed-loop remediation — reducing MTTR from 30 minutes to under 2 minutes.
+- **ING Hackathon 2026: AI for Reliability** · Global Top 5, only Australian finalists · Architected autonomous observability agents using kagent, Grafana MCP Server, and Google A2A protocol on AKS/GKE. Integrated Claude and Gemini for natural-language observability, Kubernetes actions, and closed-loop remediation, reducing MTTR from 30 minutes to under 2 minutes.
 - **Echo Live Voice AI Agent** · Real-time voice agent prototype using the Gemini Live API on Google Cloud Run. WebSocket streaming, function calling, and Google Search grounding.
-- **Agent Clinic — Enterprise AI Adoption Program** · Internal initiative at ING Australia using network science principles (Metcalfe/Reed/Dunbar) to drive AI tool adoption across the organisation. Enablement materials, usage analytics, and adoption playbooks.
+- **Agent Clinic: Enterprise AI Adoption Program** · Internal initiative at ING Australia using network science principles (Metcalfe/Reed/Dunbar) to drive AI tool adoption across the organisation. Enablement materials, usage analytics, and adoption playbooks.
 
 ---
 
 ## How I Think About Agentic Systems
 
-- 🤝 **AI as teammate, not toy** — writer agents, reviewer agents, and monitoring on all of them
-- 🔒 **Safety and observability first** — defence-in-depth, explicit threat models, metrics + traces + cost dashboards before ergonomics
-- 🧑‍💼 **Human-in-the-loop by design** — owners get plain-English verdicts; engineers get structured, traceable evidence
-- 📐 **Evaluation-driven** — if you can't measure it, you can't trust it in production
-- 📡 **Observable everything** — if it's not in Grafana, it didn't happen
+- 🤝 **AI as teammate, not toy**: writer agents, reviewer agents, and monitoring on all of them
+- 🔒 **Safety and observability first**: defence-in-depth, explicit threat models, metrics + traces + cost dashboards before ergonomics
+- 🧑‍💼 **Human-in-the-loop by design**: owners get plain-English verdicts; engineers get structured, traceable evidence
+- 📐 **Evaluation-driven**: if you can't measure it, you can't trust it in production
+- 📡 **Observable everything**: if it's not in Grafana, it didn't happen
 
 ---
 
@@ -69,6 +69,6 @@ Multi-market portfolio dashboard (ASX, US, IN) with AI-driven regime analysis. B
 
 ## Let's Connect
 
-If you're building agentic workflows, evaluation frameworks, or AI-native developer tooling — I'm always keen to compare architectures and swap notes.
+If you're building agentic workflows, evaluation frameworks, or AI-native developer tooling, I'm always keen to compare architectures and swap notes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishal8shah-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal8shah) [![Website](https://img.shields.io/badge/Website-vishalshah.app-E8B339?logo=googlechrome&logoColor=white)](https://vishalshah.app) [![GitHub](https://img.shields.io/badge/GitHub-vishal8shah-181717?logo=github&logoColor=white)](https://github.com/vishal8shah)
