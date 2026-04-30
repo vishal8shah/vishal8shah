@@ -8,6 +8,8 @@ My enterprise background in regulated financial services (SOX, APRA, IAM, change
 
 Based in Sydney, Australia. 19 years in enterprise technology. Currently exploring the intersection of agentic AI, evaluation frameworks, and safe enterprise deployment.
 
+🌐 [vishalshah.app](https://vishalshah.app)
+
 ---
 
 ## What I'm Building
@@ -69,4 +71,4 @@ Multi-market portfolio dashboard (ASX, US, IN) with AI-driven regime analysis. B
 
 If you're building agentic workflows, evaluation frameworks, or AI-native developer tooling — I'm always keen to compare architectures and swap notes.
 
-[LinkedIn](https://linkedin.com/in/vishal8shah) · [GitHub](https://github.com/vishal8shah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishal8shah-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal8shah) [![Website](https://img.shields.io/badge/Website-vishalshah.app-E8B339?logo=googlechrome&logoColor=white)](https://vishalshah.app) [![GitHub](https://img.shields.io/badge/GitHub-vishal8shah-181717?logo=github&logoColor=white)](https://github.com/vishal8shah)
