@@ -49,6 +49,13 @@ Multi-market portfolio dashboard (ASX, US, IN) with AI-driven regime analysis. B
 
 ---
 
+## Platform Tenure
+
+- Platform Lead for ServiceNow at ING Bank Australia since 2018. Implemented the original platform. Run and evolve it today. SOX critical, highest data confidentiality classification (C4), 3,500+ users.
+- Now extending platform leadership to observability tooling. Supporting PagerDuty and Grafana platforms across the bank.
+
+---
+
 ## How I Think About Agentic Systems
 
 - 🤝 **AI as teammate, not toy**: writer agents, reviewer agents, and monitoring on all of them
