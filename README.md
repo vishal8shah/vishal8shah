@@ -26,6 +26,12 @@ Security-hardened, self-hosted AI agent on WSL2 with 10-layer defence-in-depth, 
 
 > Assumes you're running long-lived agents with real tools, real credentials, and real blast radius, treating security and observability as non-negotiable.
 
+### 🎙️ [Live Pitch Coach](https://github.com/vishal8shah/Gemini-Live-Pitch-Coach)
+
+Real-time voice coaching agent using the Gemini Live API on Google Cloud Run. WebSocket streaming, function calling, and Google Search grounding. Configurable personas for pitch practice, interview prep, and live event coaching.
+
+> Started as a generic voice assistant prototype, then specialised into a coaching agent with role-specific personas. Explores low-latency voice agent UX and the operational realities of streaming LLM interfaces.
+
 ### 📊 [AU Job Market Visualiser](https://github.com/vishal8shah/au-jobs)
 
 Interactive treemap of 358 Australian occupations and 14.4M workers using ANZSCO data and Gemini-scored Digital AI Exposure scores. Adapted from Karpathy's methodology. Live at [vishal8shah.github.io/au-jobs](https://vishal8shah.github.io/au-jobs).
@@ -58,7 +64,7 @@ Multi-market portfolio dashboard (ASX, US, IN) with AI-driven regime analysis. B
 | Layer | Tools |
 |---|---|
 | **Languages** | Python, TypeScript, JavaScript, SQL, Bash |
-| **AI & Agents** | OpenAI, Anthropic, Gemini, Perplexity, LiteLLM, kagent |
+| **AI & Agents** | Claude API, Gemini API, MCP (Model Context Protocol), A2A protocol, kagent, LiteLLM |
 | **Backend / Infra** | Node.js, Express, WSL2, Docker, Kubernetes (GKE/AKS) |
 | **Observability** | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Alloy |
 | **Frontend** | React + Vite, Tailwind CSS |
