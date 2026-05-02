@@ -6,7 +6,7 @@ I build **agentic AI systems with production-grade guardrails**: multi-agent rev
 
 My enterprise background in regulated financial services (SOX, APRA, IAM, change governance) shapes how I think about deploying AI responsibly at scale, translating complex technical architectures into clear business value for executives, engineers, and everyone in between.
 
-Based in Sydney, Australia. 19 years in enterprise technology. Currently exploring the intersection of agentic AI, evaluation frameworks, and safe enterprise deployment.
+Based in Sydney, Australia. ServiceNow Delivery Lead and Tech Architect at ING Australia by day. Agentic AI builder by night. I own Configuration Management and CMDB risk controls for the bank, which feed into the overall risk score impacting regulatory capital reserve requirements.
 
 🌐 [vishalshah.app](https://vishalshah.app)
 
@@ -36,11 +36,10 @@ Multi-market portfolio dashboard (ASX, US, IN) with AI-driven regime analysis. B
 
 ---
 
-## Other Projects
+## Recognition
 
-- **ING Hackathon 2026: AI for Reliability** · Global Top 5, only Australian finalists · Architected autonomous observability agents using kagent, Grafana MCP Server, and Google A2A protocol on AKS/GKE. Integrated Claude and Gemini for natural-language observability, Kubernetes actions, and closed-loop remediation, reducing MTTR from 30 minutes to under 2 minutes.
-- **Echo Live Voice AI Agent** · Real-time voice agent prototype using the Gemini Live API on Google Cloud Run. WebSocket streaming, function calling, and Google Search grounding.
-- **Agent Clinic: Enterprise AI Adoption Program** · Internal initiative at ING Australia using network science principles (Metcalfe/Reed/Dunbar) to drive AI tool adoption across the organisation. Enablement materials, usage analytics, and adoption playbooks.
+- Top 5 globally, ING Hackathon 2026 (AI for Reliability). Only Australian finalists. Built kagent, Grafana MCP, and A2A observability agents that cut MTTR from 30+ minutes to under 5 minutes.
+- Co-founded ING's Agent Clinic. Grew from 26 to 65+ active M365 Copilot agents in four weeks. Each agent is capped at 50 users by design, a privacy guardrail across roughly 1,500 enterprise users.
 
 ---
 
@@ -59,7 +58,7 @@ Multi-market portfolio dashboard (ASX, US, IN) with AI-driven regime analysis. B
 | Layer | Tools |
 |---|---|
 | **Languages** | Python, TypeScript, JavaScript, SQL, Bash |
-| **AI & Agents** | Claude API, Gemini API, MCP (Model Context Protocol), A2A protocol, kagent, OpenClaw, LiteLLM |
+| **AI & Agents** | OpenAI, Anthropic, Gemini, Perplexity, LiteLLM, kagent |
 | **Backend / Infra** | Node.js, Express, WSL2, Docker, Kubernetes (GKE/AKS) |
 | **Observability** | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Alloy |
 | **Frontend** | React + Vite, Tailwind CSS |
